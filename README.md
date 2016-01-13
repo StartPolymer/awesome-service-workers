@@ -10,13 +10,13 @@
 - [Tutorials / Guides](#tutorials-guides)
 - [Case Studies](#case-studies)
 - [Videos](#videos)
-- [Tools](#tools)
+- [Libraries](#libraries)
+- [Open-source projects](#open-source-projects)
 - [Other awesome resources](#other-awesome-resources)
 
 ## General resources
 
 - [Chromium Project](https://www.chromium.org/blink/serviceworker)
-- [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/) - 2014-12
 - [W3C Working Draft](https://www.w3.org/TR/service-workers/)
 - [W3C Editor's Draft](https://slightlyoff.github.io/ServiceWorker/spec/service_worker/)
 - [Is ServiceWorker ready?](https://jakearchibald.github.io/isserviceworkerready/)
@@ -27,9 +27,12 @@
 
 ## Tutorials / Guides
 
+- [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/) - 2014-12
 - [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/) - 2014-12
 - [Offline Recipes for Service Workers](https://davidwalsh.name/offline-recipes-service-workers) - 2015-11
 - [simple-serviceworker-tutorial](https://github.com/jakearchibald/simple-serviceworker-tutorial)
+- [Chrome Dev Summit 2015 Codelabs](https://codelabs.developers.google.com/chrome-dev-summit)
+- [Service Worker Recipes](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker)
 
 ## Case Studies
 
@@ -41,9 +44,19 @@
 - [From Jurassic Web to offline-first and more with Service Workers by Hubert Sablonnière](https://www.youtube.com/watch?v=SltjVpgTaCo)
 - [Offline First and Service Workers](https://www.youtube.com/watch?v=TGwjgmAqNRo)
 
-## Tools
+## Libraries
 
-- [sw-precache](https://github.com/GoogleChrome/sw-precache)
+- [platinum-sw](https://elements.polymer-project.org/elements/platinum-sw?active=platinum-sw-register) - a set of Polymer elements
+- [sw-precache](https://github.com/GoogleChrome/sw-precache) - a module for gulp/Grunt builds
+- [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox) - a runtime caching library
+- [ServiceWorkerWare](https://github.com/fxos-components/serviceworkerware) - an Express-like layer on top of service workers
+- [UpUp](https://github.com/TalAter/UpUp) - provides an offline fallback page
+- [offline-plugin](https://github.com/NekR/offline-plugin) - a plugin for webpack bundler
+
+## Open-source projects
+
+- [Air Horn](https://github.com/GoogleChrome/airhorn)
+- [SVGOMG](https://github.com/jakearchibald/svgomg)
 
 ## Other awesome resources
 
