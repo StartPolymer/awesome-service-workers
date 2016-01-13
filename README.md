@@ -1,7 +1,7 @@
 # Awesome Service Workers
 
-[![GitHub Star](https://img.shields.io/github/stars/StartPolymer/awesome-service-workers.svg?label=Star)](https://github.com/StartPolymer/awesome-service-workers)
-[![GitHub Watch](https://img.shields.io/github/watchers/StartPolymer/awesome-service-workers.svg?label=Watch)](https://github.com/StartPolymer/awesome-service-workers)
+[![GitHub Stars](https://img.shields.io/github/stars/StartPolymer/awesome-service-workers.svg?label=GitHub%20Stars)](https://github.com/StartPolymer/awesome-service-workers)
+[![GitHub Watchers](https://img.shields.io/github/watchers/StartPolymer/awesome-service-workers.svg?label=GitHub%20Watchers)](https://github.com/StartPolymer/awesome-service-workers)
 
 > A collection of awesome Service Workers resources.
 
