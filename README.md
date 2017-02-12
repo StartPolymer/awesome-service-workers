@@ -33,6 +33,7 @@
 - [simple-serviceworker-tutorial](https://github.com/jakearchibald/simple-serviceworker-tutorial)
 - [Chrome Dev Summit 2015 Codelabs](https://codelabs.developers.google.com/chrome-dev-summit)
 - [Service Worker Recipes](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker)
+- [Implementing "Save For Offline" with Service Workers](https://una.im/save-offline/) - 2017-01
 
 ## Case Studies
 
