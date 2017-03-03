@@ -27,13 +27,14 @@
 
 ## Tutorials / Guides
 
+- [Progressive Web App Libraries in Production](https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34#.uhu3vx5dz) - 2017-02
+- [Implementing "Save For Offline" with Service Workers](https://una.im/save-offline/) - 2017-01
 - [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/) - 2014-12
 - [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/) - 2014-12
 - [Offline Recipes for Service Workers](https://davidwalsh.name/offline-recipes-service-workers) - 2015-11
 - [simple-serviceworker-tutorial](https://github.com/jakearchibald/simple-serviceworker-tutorial)
 - [Chrome Dev Summit 2015 Codelabs](https://codelabs.developers.google.com/chrome-dev-summit)
 - [Service Worker Recipes](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker)
-- [Implementing "Save For Offline" with Service Workers](https://una.im/save-offline/) - 2017-01
 
 ## Case Studies
 
